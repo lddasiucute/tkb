@@ -1,2 +1,0 @@
-# tkb
-tkb của lda
